@@ -46,4 +46,4 @@ print(make_operation('+', 7, 7, 2))
 print(make_operation('-', 5, 5, -10, -20))
 print(make_operation('*', 7, 6))
 
-
+print('Nice homework:)')
